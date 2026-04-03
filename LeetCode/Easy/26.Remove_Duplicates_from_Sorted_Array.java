@@ -50,7 +50,7 @@ class Solution {
         for(int j = 0; j < duplicates.size(); j++){
             nums[j] = duplicates.get(j);
         }
-        return duplicates.size() ;     
+        return duplicates.size() ;
         
     }
 }   
