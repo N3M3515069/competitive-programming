@@ -10,5 +10,5 @@ Solutions to DSA and competitive programming problems.
 - `python_problems/CodeWars/` — CodeWars problems in Python
 
 ## Profiles
-- LeetCode: [N3M3515069](https://leetcode.com/N3M3515069)
+- LeetCode: [N3M3515069](https://leetcode.com/u/user9476A/)
 - CodeWars: [Caped Baldy](https://www.codewars.com/users/Caped%20Baldy)
