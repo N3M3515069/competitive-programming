@@ -11,4 +11,4 @@ Solutions to DSA and competitive programming problems.
 
 ## Profiles
 - LeetCode: [N3M3515069](https://leetcode.com/u/user9476A/)
-- CodeWars: [Caped Baldy](https://www.codewars.com/users/Caped%20Baldy)
+- CodeWars: [Caped Baldy](https://www.codewars.com/users/Caped%20Baldy).
